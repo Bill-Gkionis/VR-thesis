@@ -362,11 +362,11 @@ Rejected approaches are documented as carefully as the chosen ones. A dated desi
 
 ## Team and credits
 
-| Role | Person |
-|---|---|
+| Role                                                                             | Person                                                                                                               |
+| -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | Development and engineering: 3D assets, Unity application, simulation, telemetry | **Vasilis (Bill) Gkionis**, diploma thesis, Dept. of Electrical & Electronics Engineering, University of West Attica |
-| Research lead: instructional design, learning analytics, evaluation | **Evaggelia (Eva) Zontou**, Ph.D. candidate, University of West Attica |
-| Supervision | *To be added* |
+| Research lead: instructional design, learning analytics, evaluation              | **Evaggelia (Eva) Zontou**, Ph.D. candidate, University of West Attica                                               |
+| Supervision                                                                      | **Rangoussi Maria**                                                                                                  |
 
 <!-- TODO: confirm with Eva how she'd like her name and title shown; add supervisor names and titles; add contact links (GitHub / LinkedIn / e-mail). -->
 
